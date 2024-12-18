@@ -1,0 +1,42 @@
+/*styling for voice memo recording*/
+.blink {
+	animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
+}
+/*styling for voice memo recording*/
+
+/*styling for scroll bar*/
+@media (max-width: 767px) {
+	::-webkit-scrollbar {
+		width: 5px;
+	}
+}
+
+@media (min-width: 768px) {
+	::-webkit-scrollbar {
+		width: 10px;
+	}
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	border-radius: 8px;
+	background-color: #F1F1F1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #C1C1C1;
+	border-radius: 8px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #A8A8A8;
+}
+/*styling for scroll bar*/

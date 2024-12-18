@@ -1,0 +1,76 @@
+{
+  "Common": {
+	"Dashboard": "Dashboard",
+	"Activities": "Activiteiten",
+	"Contacts": "Contacten",
+	"Account": "Account",
+	"Settings": "Instellingen",
+	"Login": "Inloggen",
+	"Logout": "Uitloggen",
+	"User menu": "Gebruikersmenu",
+	"Active language": "Nederlands",
+	"Activity speed dial": {
+	  "Phone": "Telefoongesprek",
+	  "Online": "Online",
+	  "Physical": "Fysieke bijeenkomst"
+	}
+  },
+  "Dashboard page": {
+	"Summary": "Samenvatting",
+	"Total": "Totaal",
+	"Next activities": "Volgende activiteiten",
+	"Newest activities": "Nieuwste activiteiten",
+	"Oldest activities": "Oudste activiteiten",
+	"Summary card": {
+	  "Monthly": "Maandelijks",
+	  "Weekly": "Wekelijks",
+	  "Daily": "Dagelijks"
+	},
+	"Total card": {
+	  "Activities": "Activiteiten",
+	  "Tasks": "Taken"
+	}
+  },
+  "Activities overview page": {
+	"Search institution": "Zoek instelling",
+	"Show archived activities": "Toon gearchiveerde activiteiten",
+	"Latest first": "Laatste eerst",
+	"Earliest first": "Vroegste eerst",
+	"Today": "Vandaag",
+	"Next 7 days": "Volgende 7 dagen",
+	"Next 30 days": "Volgende 30 dagen",
+	"Card": {
+	  "Participants": "Deelnemers",
+	  "Tasks": "Taken"
+	}
+  },
+  "Contacts overview page": {
+	"New contact": "Nieuw contact",
+	"Search contact": "Zoek contact",
+	"Job title": "Functietitel",
+	"Rows per page": "Rijen per pagina"
+  },
+  "Activity form": {
+	"New activity": "Nieuwe activiteit",
+	"Participants": "Deelnemers",
+	"Activity": "Activiteit",
+	"Add someone external": "Iemand extern toevoegen",
+	"External participant": "Externe deelnemer",
+	"Next": "Volgende",
+	"Type": "Type",
+	"Phone conversation": "Telefoongesprek",
+	"Online": "Online",
+	"Physical meeting": "Fysieke vergadering",
+	"Subject": "Onderwerp",
+	"Start time": "Starttijd",
+	"End time": "Eindtijd",
+	"Tags": "Tags",
+	"External note": "Externe notitie",
+	"Client will be able to see this note": "De klant zal deze notitie kunnen zien",
+	"Internal note": "Interne notitie",
+	"Send email": "E-mail verzenden",
+	"Switch on to immediately send email": "Inschakelen om direct een e-mail met bevestiging van de activiteit naar alle deelnemers te sturen",
+	"Back": "Terug",
+	"Save": "Opslaan"
+  }
+}

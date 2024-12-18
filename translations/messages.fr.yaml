@@ -1,0 +1,25 @@
+Activity details: Détails de l'activité
+Subject: Sujet
+Date: Date
+Location: Lieu
+
+Email:
+  Common:
+    Dear: Cher/Chère
+    Best regards: Cordialement
+    Unknown recipient: Monsieur/Madame
+  Confirmation:
+    Activity confirmation: Confirmation d'activité
+    Intro: Je souhaitais confirmer les détails de notre prochaine activité prévue pour le %date%.
+    Body: Si vous avez des exigences spécifiques ou avez besoin de préparatifs pour l'activité, veuillez me le faire savoir. Je suis là pour garantir un déroulement fluide et réussi.
+    Closure: N'hésitez pas à me contacter si vous avez des questions ou si vous devez apporter des modifications aux détails de l'activité. J'ai hâte de notre rencontre.
+  Cancellation:
+    Activity cancellation: Annulation d'activité
+    Intro: Je souhaitais vous informer que l'activité prévue pour %subject% le %date% a été annulée.
+    Body: Malheureusement, des circonstances indépendantes de notre volonté ont conduit à l'annulation de cette activité. Nous nous excusons pour les désagréments occasionnés.
+    Closure: Si vous avez des questions ou avez besoin d'une assistance supplémentaire, n'hésitez pas à nous contacter. Nous serons heureux de répondre à vos préoccupations. Merci pour votre compréhension et votre coopération.
+  Review:
+    Activity review: Évaluation de l'activité
+    Intro: J'espère que cet email vous trouve bien. Je profite de cette occasion pour partager avec vous un compte rendu de notre activité précédente.
+    Body: Si vous avez des questions ou avez besoin de plus d'informations concernant le compte rendu ou si vous avez besoin d'une assistance supplémentaire, n'hésitez pas à me contacter. Votre satisfaction est notre priorité absolue, et nous sommes toujours là pour vous soutenir.
+    Closure: Merci pour notre collaboration continue. Nous apprécions notre relation avec vous et avons hâte de nos futures collaborations.

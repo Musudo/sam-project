@@ -1,0 +1,76 @@
+{
+  "Common": {
+	"Dashboard": "Dashboard",
+	"Activities": "Aktivitäten",
+	"Contacts": "Kontakte",
+	"Account": "Konto",
+	"Settings": "Einstellungen",
+	"Login": "Anmelden",
+	"Logout": "Abmelden",
+	"User menu": "Benutzermenü",
+	"Active language": "Deutsch",
+	"Activity speed dial": {
+	  "Phone": "Telefongespräch",
+	  "Online": "Online",
+	  "Physical": "Persönliches Treffen"
+	}
+  },
+  "Dashboard page": {
+	"Summary": "Zusammenfassung",
+	"Total": "Gesamt",
+	"Next activities": "Nächste Aktivitäten",
+	"Newest activities": "Neueste Aktivitäten",
+	"Oldest activities": "Älteste Aktivitäten",
+	"Summary card": {
+	  "Monthly": "Monatlich",
+	  "Weekly": "Wöchentlich",
+	  "Daily": "Täglich"
+	},
+	"Total card": {
+	  "Activities": "Aktivitäten",
+	  "Tasks": "Aufgaben"
+	}
+  },
+  "Activities overview page": {
+	"Search institution": "Institution suchen",
+	"Show archived activities": "Archivierte Aktivitäten anzeigen",
+	"Latest first": "Neueste zuerst",
+	"Earliest first": "Älteste zuerst",
+	"Today": "Heute",
+	"Next 7 days": "Nächste 7 Tage",
+	"Next 30 days": "Nächste 30 Tage",
+	"Card": {
+	  "Participants": "Teilnehmer",
+	  "Tasks": "Aufgaben"
+	}
+  },
+  "Contacts overview page": {
+	"New contact": "Neuer Kontakt",
+	"Search contact": "Kontakt suchen",
+	"Job title": "Berufsbezeichnung",
+	"Rows per page": "Zeilen pro Seite"
+  },
+  "Activity form": {
+	"New activity": "Neue Aktivität",
+	"Participants": "Teilnehmer",
+	"Activity": "Aktivität",
+	"Add someone external": "Externe Person hinzufügen",
+	"External participant": "Externer Teilnehmer",
+	"Next": "Weiter",
+	"Type": "Typ",
+	"Phone conversation": "Telefongespräch",
+	"Online": "Online",
+	"Physical meeting": "Persönliches Treffen",
+	"Subject": "Betreff",
+	"Start time": "Startzeit",
+	"End time": "Endzeit",
+	"Tags": "Tags",
+	"External note": "Externe Notiz",
+	"Client will be able to see this note": "Der Kunde kann diese Notiz sehen",
+	"Internal note": "Interne Notiz",
+	"Send email": "E-Mail senden",
+	"Switch on to immediately send email": "Einschalten, um sofort eine E-Mail mit Bestätigung der Aktivität an alle Teilnehmer zu senden",
+	"Back": "Zurück",
+	"Save": "Speichern"
+  }
+}

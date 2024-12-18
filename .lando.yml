@@ -1,0 +1,32 @@
+name: sam
+recipe: symfony
+config:
+  php: '8.1'
+  via: nginx
+  webroot: public
+  database: mariadb
+  xdebug: true
+services:
+  database: 
+    portforward: 3320
+  node:
+    type: node:16
+    build:
+      - npm install
+  appserver_nginx:
+    xdebug: true
+  appserver:
+    xdebug: true
+#    run_as_root:
+#      - ln -snf /usr/share/zoneinfo/Europe/Brussels /etc/localtime
+#      - echo "Europe/Brussels" > /etc/timezone
+tooling:
+  npm:
+    service: node
+  node:
+    service: node
+  watch:
+    service: node
+    description: watch frontend code changes
+    cmd:
+      - npm run watch

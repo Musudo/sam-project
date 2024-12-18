@@ -1,0 +1,76 @@
+{
+  "Common": {
+	"Dashboard": "Dashboard",
+	"Activities": "Activities",
+	"Contacts": "Contacts",
+	"Account": "Account",
+	"Settings": "Settings",
+	"User menu": "User menu",
+	"Login": "Login",
+	"Logout": "Logout",
+	"Active language": "English",
+	"Activity speed dial": {
+	  "Phone": "Phone conversation",
+	  "Online": "Online",
+	  "Physical": "Physical meeting"
+	}
+  },
+  "Dashboard page": {
+	"Summary": "Summary",
+	"Total": "Summary",
+	"Next activities": "Next activities",
+	"Newest activities": "Newest activities",
+	"Oldest activities": "Oldest activities",
+	"Summary card": {
+	  "Monthly": "Monthly",
+	  "Weekly": "Weekly",
+	  "Daily": "Daily"
+	},
+	"Total card": {
+	  "Activities": "Activities",
+	  "Tasks": "Tasks"
+	}
+  },
+  "Activities overview page": {
+	"Search institution": "Search institution",
+	"Show archived activities": "Show archived activities",
+	"Latest first": "Latest first",
+	"Earliest first": "Earliest first",
+	"Today": "Today",
+	"Next 7 days": "Next 7 days",
+	"Next 30 days": "Next 30 days",
+	"Card": {
+	  "Participants": "Participants",
+	  "Tasks": "Tasks"
+	}
+  },
+  "Contacts overview page": {
+	"New contact": "New contact",
+	"Search contact": "Search contact",
+	"Job title": "Job title",
+	"Rows per page": "Rows per page"
+  },
+  "Activity form": {
+	"New activity": "New activity",
+	"Participants": "Participants",
+	"Activity": "Activity",
+	"Add someone external": "Add someone external",
+	"External participant": "External participant",
+	"Next": "Next",
+	"Type": "Type",
+	"Phone conversation": "Phone conversation",
+	"Online": "Online",
+	"Physical meeting": "Physical meeting",
+	"Subject": "Subject",
+	"Start time": "Start time",
+	"End time": "End time",
+	"Tags": "Tags",
+	"External note": "External note",
+	"Client will be able to see this note": "Client will be able to see this note",
+	"Internal note": "Internal note",
+	"Send email": "Send email",
+	"Switch on to immediately send email": "Turn on to immediately send email with confirmation of activity to all participants",
+	"Back": "Back",
+	"Save": "Save"
+  }
+}

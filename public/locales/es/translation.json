@@ -1,0 +1,76 @@
+{
+  "Common": {
+	"Dashboard": "Tablero",
+	"Activities": "Actividades",
+	"Contacts": "Contactos",
+	"Account": "Cuenta",
+	"Settings": "Configuración",
+	"Login": "Iniciar sesión",
+	"Logout": "Cerrar sesión",
+	"User menu": "Menú de usuario",
+	"Active language": "Español",
+	"Activity speed dial": {
+	  "Phone": "Conversación telefónica",
+	  "Online": "En línea",
+	  "Physical": "Reunión presencial"
+	}
+  },
+  "Dashboard page": {
+	"Summary": "Resumen",
+	"Total": "Total",
+	"Next activities": "Próximas actividades",
+	"Newest activities": "Actividades más recientes",
+	"Oldest activities": "Actividades más antiguas",
+	"Summary card": {
+	  "Monthly": "Mensual",
+	  "Weekly": "Semanal",
+	  "Daily": "Diario"
+	},
+	"Total card": {
+	  "Activities": "Actividades",
+	  "Tasks": "Tareas"
+	}
+  },
+  "Activities overview page": {
+	"Search institution": "Buscar institución",
+	"Show archived activities": "Mostrar actividades archivadas",
+	"Latest first": "Más recientes primero",
+	"Earliest first": "Más antiguos primero",
+	"Today": "Hoy",
+	"Next 7 days": "Próximos 7 días",
+	"Next 30 days": "Próximos 30 días",
+	"Card": {
+	  "Participants": "Participantes",
+	  "Tasks": "Tareas"
+	}
+  },
+  "Contacts overview page": {
+	"New contact": "Nuevo contacto",
+	"Search contact": "Buscar contacto",
+	"Job title": "Cargo",
+	"Rows per page": "Filas por página"
+  },
+  "Activity form": {
+	"New activity": "Nueva actividad",
+	"Participants": "Participantes",
+	"Activity": "Actividad",
+	"Add someone external": "Agregar persona externa",
+	"External participant": "Participante externo",
+	"Next": "Siguiente",
+	"Type": "Tipo",
+	"Phone conversation": "Conversación telefónica",
+	"Online": "En línea",
+	"Physical meeting": "Reunión presencial",
+	"Subject": "Asunto",
+	"Start time": "Hora de inicio",
+	"End time": "Hora de finalización",
+	"Tags": "Etiquetas",
+	"External note": "Nota externa",
+	"Client will be able to see this note": "El cliente podrá ver esta nota",
+	"Internal note": "Nota interna",
+	"Send email": "Enviar correo electrónico",
+	"Switch on to immediately send email": "Activar para enviar inmediatamente un correo electrónico con la confirmación de la actividad a todos los participantes",
+	"Back": "Atrás",
+	"Save": "Guardar"
+  }
+}

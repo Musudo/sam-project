@@ -1,0 +1,12 @@
+index:
+  path: /
+  defaults: { _controller: AppBundle:HomeController:index }
+react1:
+  path: /{component}
+  controller: App\Controller\HomeController::index
+react2:
+  path: /{component1}/{component2}
+  controller: App\Controller\HomeController::index
+react3:
+  path: /{component1}/{component2}/{component3}
+  controller: App\Controller\HomeController::index

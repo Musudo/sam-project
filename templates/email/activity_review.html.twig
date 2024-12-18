@@ -1,0 +1,15 @@
+<h4>{{ 'Email.Common.Dear'|trans([], null, lang) }} {{ recipient_name }},</h4>
+
+<p>{{ 'Email.Review.Intro'|trans([], null, lang) }}</p>
+
+<div>
+	<p><strong>{{ review_title }}</strong></p>
+	{{ review_content | raw }}
+</div>
+
+<p>{{ 'Email.Review.Body'|trans([], null, lang) }}</p>
+
+<p>{{ 'Email.Review.Closure'|trans([], null, lang) }}</p>
+
+<p>{{ 'Email.Common.Best regards'|trans([], null, lang) }},</p>
+<p>{{ sender_name }}</p>

@@ -1,0 +1,12 @@
+framework:
+  mailer:
+    dsn: '%env(MAILER_DSN)%'
+#    envelope:
+#      recipients: [ 'musa.tashtamirov@signpost.eu' ]
+when@dev:
+  framework:
+    mailer:
+      dsn: '%env(MAILER_DSN)%'
+#      dsn: 'null://null'
+      envelope:
+        recipients: [ '%env(DEVELOPER_EMAIL)%' ]

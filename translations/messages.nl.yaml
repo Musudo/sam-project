@@ -1,0 +1,25 @@
+Activity details: Activiteitsdetails
+Subject: Onderwerp
+Date: Datum
+Location: Locatie
+
+Email:
+  Common:
+    Dear: Beste
+    Best regards: Met vriendelijke groet
+    Unknown recipient: meneer/mevrouw
+  Confirmation:
+    Activity confirmation: Activiteitsbevestiging
+    Intro: Ik wilde graag de details bevestigen van onze aankomende activiteit gepland op %date%.
+    Body: Als u specifieke vereisten heeft of voorbereidingen nodig heeft voor de activiteit, laat het me dan weten. Ik sta klaar om een soepele en succesvolle samenwerking te garanderen.
+    Closure: Voel u vrij om contact met me op te nemen als u vragen heeft of wijzigingen wilt aanbrengen in de activiteitsdetails. Ik kijk uit naar onze ontmoeting.
+  Cancellation:
+    Activity cancellation: Annulering van activiteit
+    Intro: Ik wilde u informeren dat de geplande activiteit voor %subject% op %date% is geannuleerd.
+    Body: Helaas hebben omstandigheden buiten onze controle geleid tot de annulering van deze activiteit. Onze excuses voor het eventuele ongemak.
+    Closure: Als u vragen heeft of verdere assistentie nodig heeft, neem dan gerust contact met ons op. We helpen u graag met eventuele zorgen die u heeft. Bedankt voor uw begrip en medewerking.
+  Review:
+    Activity review: Activiteitsbeoordeling
+    Intro: Ik hoop dat dit bericht u goed bereikt. Ik wil graag van de gelegenheid gebruik maken om een review van onze vorige activiteit met u te delen.
+    Body: Als u vragen heeft of meer informatie nodig heeft over de review, of als er iets anders is waar ik u mee kan helpen, neem dan gerust contact met me op. Uw tevredenheid heeft onze hoogste prioriteit en we staan altijd klaar om u te ondersteunen.
+    Closure: Bedankt voor onze voortdurende samenwerking. We waarderen onze relatie met u en kijken uit naar toekomstige samenwerkingen.

@@ -1,0 +1,17 @@
+<h4>{{ 'Email.Common.Dear'|trans([], null, lang) }} {{ recipient_name }},</h4>
+
+<p>{{ 'Email.Cancellation.Intro'|trans({'%subject%': subject , '%date%': date}, null, lang)|raw }}</p>
+
+<p><strong>{{ 'Activity details'|trans([], null, lang) }}:</strong></p>
+<ul>
+	<li><strong>{{ 'Subject'|trans([], null, lang) }}:</strong> {{ subject }}</li>
+	<li><strong>{{ 'Date'|trans([], null, lang) }}:</strong> {{ date }}</li>
+	<li><strong>{{ 'Location'|trans([], null, lang) }}:</strong> {{ location }}</li>
+</ul>
+
+<p>{{ 'Email.Cancellation.Body'|trans([], null, lang) }}</p>
+
+<p>{{ 'Email.Cancellation.Closure'|trans([], null, lang) }}</p>
+
+<p>{{ 'Email.Common.Best regards'|trans([], null, lang) }},</p>
+<p>{{ sender_name }}</p>

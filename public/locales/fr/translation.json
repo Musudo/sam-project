@@ -1,0 +1,76 @@
+{
+  "Common": {
+	"Dashboard": "Tableau de bord",
+	"Activities": "Activités",
+	"Contacts": "Contacts",
+	"Account": "Compte",
+	"Settings": "Paramètres",
+	"Login": "Connexion",
+	"Logout": "Déconnexion",
+	"User menu": "Menu utilisateur",
+	"Active language": "Français",
+	"Activity speed dial": {
+	  "Phone": "Conversation téléphonique",
+	  "Online": "En ligne",
+	  "Physical": "Réunion physique"
+	}
+  },
+  "Dashboard page": {
+	"Summary": "Résumé",
+	"Total": "Total",
+	"Next activities": "Activités suivantes",
+	"Newest activities": "Activités les plus récentes",
+	"Oldest activities": "Activités les plus anciennes",
+	"Summary card": {
+	  "Monthly": "Mensuel",
+	  "Weekly": "Hebdomadaire",
+	  "Daily": "Quotidien"
+	},
+	"Total card": {
+	  "Activities": "Activités",
+	  "Tasks": "Tâches"
+	}
+  },
+  "Activities overview page": {
+	"Search institution": "Rechercher une institution",
+	"Show archived activities": "Afficher les activités archivées",
+	"Latest first": "Le plus récent d'abord",
+	"Earliest first": "Le plus ancien d'abord",
+	"Today": "Aujourd'hui",
+	"Next 7 days": "7 prochains jours",
+	"Next 30 days": "30 prochains jours",
+	"Card": {
+	  "Participants": "Participants",
+	  "Tasks": "Tâches"
+	}
+  },
+  "Contacts overview page": {
+	"New contact": "Nouveau contact",
+	"Search contact": "Rechercher un contact",
+	"Job title": "Titre du poste",
+	"Rows per page": "Lignes par page"
+  },
+  "Activity form": {
+	"New activity": "Nouvelle activité",
+	"Participants": "Participants",
+	"Activity": "Activité",
+	"Add someone external": "Ajouter quelqu'un de l'extérieur",
+	"External participant": "Participant externe",
+	"Next": "Suivant",
+	"Type": "Type",
+	"Phone conversation": "Conversation téléphonique",
+	"Online": "En ligne",
+	"Physical meeting": "Réunion physique",
+	"Subject": "Sujet",
+	"Start time": "Heure de début",
+	"End time": "Heure de fin",
+	"Tags": "Étiquettes",
+	"External note": "Note externe",
+	"Client will be able to see this note": "Le client pourra voir cette note",
+	"Internal note": "Note interne",
+	"Send email": "Envoyer un e-mail",
+	"Switch on to immediately send email": "Activez pour envoyer immédiatement un e-mail avec la confirmation de l'activité à tous les participants",
+	"Back": "Retour",
+	"Save": "Enregistrer"
+  }
+}
